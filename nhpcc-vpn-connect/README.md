@@ -1,8 +1,8 @@
-# NHPCC Network Configuration Script
+# NHPCC VPN Connection Script
 
 ## Overview
 
-This script automates the process of connecting to NHPCC VPN network while maintaining proper network segregation and easy restoration.
+The primary purpose of this script is to split the network traffic for **non-IUT** users so that they can **retain internet access** on their personal devices when connected to the NHPCC internal VPN. As IUT users connect to a different VPN server with internet access, they do not require this script. This script automates the process of connecting to the NHPCC VPN network while ensuring proper network segregation and allowing for easy restoration of the original settings.
 
 ## Features
 
