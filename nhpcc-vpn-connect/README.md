@@ -25,7 +25,7 @@ The primary purpose of this script is to split the network traffic for **non-IUT
 
 1. Download the script:
    ```bash
-   curl -O https://raw.githubusercontent.com/iut-nhpcc/user-tools/refs/heads/main/nhpcc-vpn-connect.sh
+   curl -O https://raw.githubusercontent.com/iut-nhpcc/user-tools/main/nhpcc-vpn-connect/nhpcc-vpn-connect.sh
    chmod +x nhpcc-vpn-connect.sh
 
 ## Usage
